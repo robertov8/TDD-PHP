@@ -43,5 +43,4 @@ class CalculadoraDeSalarioTest extends PHPUnit
         $salario = $calculadora->calculaSalario($dba);
         $this->assertEquals(500.00 * 0.85, $salario, null, 0.00001);
     }
-
 }
