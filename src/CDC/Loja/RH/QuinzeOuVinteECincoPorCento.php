@@ -3,7 +3,7 @@ namespace CDC\Loja\RH;
 
 use CDC\Loja\RH\RegraDeCalculo;
 
-class QuinzeOuVinteECincoPorCento implements RegraDeCalculo
+class QuinzeOuVinteECincoPorCento extends RegraDeCalculo
 {
     protected function porcentagemBase()
     {

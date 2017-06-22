@@ -17,7 +17,7 @@
         "require": {
             "php": ">=5.6"
         },
-        "time": "2016-10-03T07:35:21+00:00",
+        "time": "2016-10-03 07:35:21",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -62,7 +62,7 @@
         "require": {
             "php": ">=5.6.0"
         },
-        "time": "2015-07-28T20:34:47+00:00",
+        "time": "2015-07-28 20:34:47",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -109,7 +109,7 @@
         "require-dev": {
             "phpunit/phpunit": "^6.0"
         },
-        "time": "2017-03-03T06:23:57+00:00",
+        "time": "2017-03-03 06:23:57",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -164,7 +164,7 @@
         "require-dev": {
             "phpunit/phpunit": "^6.0"
         },
-        "time": "2017-03-29T09:07:27+00:00",
+        "time": "2017-03-29 09:07:27",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -213,7 +213,7 @@
         "require-dev": {
             "phpunit/phpunit": "^6.0"
         },
-        "time": "2017-03-12T15:17:29+00:00",
+        "time": "2017-03-12 15:17:29",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -263,7 +263,7 @@
         "suggest": {
             "ext-uopz": "*"
         },
-        "time": "2017-04-27T15:39:26+00:00",
+        "time": "2017-04-27 15:39:26",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -315,7 +315,7 @@
             "ext-mbstring": "*",
             "phpunit/phpunit": "^6.0"
         },
-        "time": "2017-04-03T13:19:02+00:00",
+        "time": "2017-04-03 13:19:02",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -362,58 +362,6 @@
         ]
     },
     {
-        "name": "sebastian/environment",
-        "version": "3.0.3",
-        "version_normalized": "3.0.3.0",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/sebastianbergmann/environment.git",
-            "reference": "02b6b2c7aefe2cdb1185b8dbf8718b0bcedf3ab3"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/sebastianbergmann/environment/zipball/02b6b2c7aefe2cdb1185b8dbf8718b0bcedf3ab3",
-            "reference": "02b6b2c7aefe2cdb1185b8dbf8718b0bcedf3ab3",
-            "shasum": ""
-        },
-        "require": {
-            "php": "^7.0"
-        },
-        "require-dev": {
-            "phpunit/phpunit": "^6.1"
-        },
-        "time": "2017-05-18T10:10:00+00:00",
-        "type": "library",
-        "extra": {
-            "branch-alias": {
-                "dev-master": "3.0.x-dev"
-            }
-        },
-        "installation-source": "dist",
-        "autoload": {
-            "classmap": [
-                "src/"
-            ]
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "BSD-3-Clause"
-        ],
-        "authors": [
-            {
-                "name": "Sebastian Bergmann",
-                "email": "sebastian@phpunit.de"
-            }
-        ],
-        "description": "Provides functionality to handle HHVM/PHP environments",
-        "homepage": "http://www.github.com/sebastianbergmann/environment",
-        "keywords": [
-            "Xdebug",
-            "environment",
-            "hhvm"
-        ]
-    },
-    {
         "name": "sebastian/diff",
         "version": "1.4.3",
         "version_normalized": "1.4.3.0",
@@ -434,7 +382,7 @@
         "require-dev": {
             "phpunit/phpunit": "^4.8.35 || ^5.7 || ^6.0"
         },
-        "time": "2017-05-22T07:24:03+00:00",
+        "time": "2017-05-22 07:24:03",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -490,7 +438,7 @@
         "require-dev": {
             "phpunit/phpunit": "^6.0"
         },
-        "time": "2017-03-03T06:26:08+00:00",
+        "time": "2017-03-03 06:26:08",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -558,7 +506,7 @@
             "phpunit/phpunit": "~4.0",
             "squizlabs/php_codesniffer": "~2.0"
         },
-        "time": "2015-06-14T21:17:01+00:00",
+        "time": "2015-06-14 21:17:01",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -607,7 +555,7 @@
         "require": {
             "php": ">=5.3.3"
         },
-        "time": "2015-06-21T13:50:34+00:00",
+        "time": "2015-06-21 13:50:34",
         "type": "library",
         "installation-source": "dist",
         "autoload": {
@@ -662,7 +610,7 @@
         "suggest": {
             "ext-soap": "*"
         },
-        "time": "2017-03-03T06:30:20+00:00",
+        "time": "2017-03-03 06:30:20",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -714,7 +662,7 @@
         "require-dev": {
             "phpunit/phpunit": "^4.8.35 || ^5.7 || ^6.0"
         },
-        "time": "2017-02-26T11:10:40+00:00",
+        "time": "2017-02-26 11:10:40",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -762,7 +710,7 @@
         "require": {
             "php": ">=5.3.3"
         },
-        "time": "2016-10-03T07:40:28+00:00",
+        "time": "2016-10-03 07:40:28",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -814,7 +762,7 @@
             "ext-xmlwriter": "*",
             "php": "^7.0"
         },
-        "time": "2017-04-07T12:08:54+00:00",
+        "time": "2017-04-07 12:08:54",
         "type": "library",
         "installation-source": "dist",
         "autoload": {
@@ -856,7 +804,7 @@
         "require-dev": {
             "phpunit/phpunit": "^5.7 || ^6.0"
         },
-        "time": "2017-03-04T06:30:41+00:00",
+        "time": "2017-03-04 06:30:41",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -904,7 +852,7 @@
         "require-dev": {
             "phpunit/phpunit": "~4.2"
         },
-        "time": "2017-02-27T10:12:30+00:00",
+        "time": "2017-02-27 10:12:30",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -967,7 +915,7 @@
         "suggest": {
             "ext-xdebug": "^2.5.3"
         },
-        "time": "2017-04-21T08:03:57+00:00",
+        "time": "2017-04-21 08:03:57",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -1021,7 +969,7 @@
             "phpunit/phpunit": "^4.6",
             "sebastian/version": "^1.0.1"
         },
-        "time": "2016-11-23T20:04:58+00:00",
+        "time": "2016-11-23 20:04:58",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -1072,7 +1020,7 @@
         "require-dev": {
             "phpunit/phpunit": "^4.6"
         },
-        "time": "2015-12-27T11:43:31+00:00",
+        "time": "2015-12-27 11:43:31",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -1130,7 +1078,7 @@
             "mockery/mockery": "^0.9.4",
             "phpunit/phpunit": "^5.2||^4.8.24"
         },
-        "time": "2016-11-25T06:54:22+00:00",
+        "time": "2016-11-25 06:54:22",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -1181,7 +1129,7 @@
             "mockery/mockery": "^0.9.4",
             "phpunit/phpunit": "^4.4"
         },
-        "time": "2016-09-30T07:12:33+00:00",
+        "time": "2016-09-30 07:12:33",
         "type": "library",
         "installation-source": "dist",
         "autoload": {
@@ -1229,7 +1177,7 @@
             "phpspec/phpspec": "^2.5|^3.2",
             "phpunit/phpunit": "^4.8 || ^5.6.5"
         },
-        "time": "2017-03-02T20:05:34+00:00",
+        "time": "2017-03-02 20:05:34",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -1286,7 +1234,7 @@
         "require": {
             "php": "^5.6 || ^7.0"
         },
-        "time": "2017-03-05T17:38:23+00:00",
+        "time": "2017-03-05 17:38:23",
         "type": "library",
         "installation-source": "dist",
         "autoload": {
@@ -1338,7 +1286,7 @@
             "phar-io/version": "^1.0.1",
             "php": "^5.6 || ^7.0"
         },
-        "time": "2017-03-05T18:14:27+00:00",
+        "time": "2017-03-05 18:14:27",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -1396,7 +1344,7 @@
             "doctrine/collections": "1.*",
             "phpunit/phpunit": "~4.1"
         },
-        "time": "2017-04-12T18:52:22+00:00",
+        "time": "2017-04-12 18:52:22",
         "type": "library",
         "installation-source": "dist",
         "autoload": {
@@ -1419,18 +1367,70 @@
         ]
     },
     {
-        "name": "phpunit/phpunit",
-        "version": "6.1.4",
-        "version_normalized": "6.1.4.0",
+        "name": "sebastian/environment",
+        "version": "3.0.4",
+        "version_normalized": "3.0.4.0",
         "source": {
             "type": "git",
-            "url": "https://github.com/sebastianbergmann/phpunit.git",
-            "reference": "42b7f394a8e009516582331b1e03a1aba40175d1"
+            "url": "https://github.com/sebastianbergmann/environment.git",
+            "reference": "74776f8dbc081cab9287c2a601c0c1d842568744"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/42b7f394a8e009516582331b1e03a1aba40175d1",
-            "reference": "42b7f394a8e009516582331b1e03a1aba40175d1",
+            "url": "https://api.github.com/repos/sebastianbergmann/environment/zipball/74776f8dbc081cab9287c2a601c0c1d842568744",
+            "reference": "74776f8dbc081cab9287c2a601c0c1d842568744",
+            "shasum": ""
+        },
+        "require": {
+            "php": "^7.0"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "^6.1"
+        },
+        "time": "2017-06-20 16:25:05",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "3.0.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "classmap": [
+                "src/"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "BSD-3-Clause"
+        ],
+        "authors": [
+            {
+                "name": "Sebastian Bergmann",
+                "email": "sebastian@phpunit.de"
+            }
+        ],
+        "description": "Provides functionality to handle HHVM/PHP environments",
+        "homepage": "http://www.github.com/sebastianbergmann/environment",
+        "keywords": [
+            "Xdebug",
+            "environment",
+            "hhvm"
+        ]
+    },
+    {
+        "name": "phpunit/phpunit",
+        "version": "6.2.2",
+        "version_normalized": "6.2.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/sebastianbergmann/phpunit.git",
+            "reference": "f2786490399836d2a544a34785c4a8d3ab32cf0e"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/f2786490399836d2a544a34785c4a8d3ab32cf0e",
+            "reference": "f2786490399836d2a544a34785c4a8d3ab32cf0e",
             "shasum": ""
         },
         "require": {
@@ -1469,14 +1469,14 @@
             "ext-xdebug": "*",
             "phpunit/php-invoker": "^1.1"
         },
-        "time": "2017-05-22T07:45:30+00:00",
+        "time": "2017-06-13 14:07:07",
         "bin": [
             "phpunit"
         ],
         "type": "library",
         "extra": {
             "branch-alias": {
-                "dev-master": "6.1.x-dev"
+                "dev-master": "6.2.x-dev"
             }
         },
         "installation-source": "dist",
@@ -1502,6 +1502,120 @@
             "phpunit",
             "testing",
             "xunit"
+        ]
+    },
+    {
+        "name": "hamcrest/hamcrest-php",
+        "version": "v1.2.2",
+        "version_normalized": "1.2.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/hamcrest/hamcrest-php.git",
+            "reference": "b37020aa976fa52d3de9aa904aa2522dc518f79c"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/hamcrest/hamcrest-php/zipball/b37020aa976fa52d3de9aa904aa2522dc518f79c",
+            "reference": "b37020aa976fa52d3de9aa904aa2522dc518f79c",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.2"
+        },
+        "replace": {
+            "cordoval/hamcrest-php": "*",
+            "davedevelopment/hamcrest-php": "*",
+            "kodova/hamcrest-php": "*"
+        },
+        "require-dev": {
+            "phpunit/php-file-iterator": "1.3.3",
+            "satooshi/php-coveralls": "dev-master"
+        },
+        "time": "2015-05-11 14:41:42",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "classmap": [
+                "hamcrest"
+            ],
+            "files": [
+                "hamcrest/Hamcrest.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "BSD"
+        ],
+        "description": "This is the PHP port of Hamcrest Matchers",
+        "keywords": [
+            "test"
+        ]
+    },
+    {
+        "name": "mockery/mockery",
+        "version": "0.9.9",
+        "version_normalized": "0.9.9.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/mockery/mockery.git",
+            "reference": "6fdb61243844dc924071d3404bb23994ea0b6856"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/mockery/mockery/zipball/6fdb61243844dc924071d3404bb23994ea0b6856",
+            "reference": "6fdb61243844dc924071d3404bb23994ea0b6856",
+            "shasum": ""
+        },
+        "require": {
+            "hamcrest/hamcrest-php": "~1.1",
+            "lib-pcre": ">=7.0",
+            "php": ">=5.3.2"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "~4.0"
+        },
+        "time": "2017-02-28 12:52:32",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "0.9.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Mockery": "library/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "BSD-3-Clause"
+        ],
+        "authors": [
+            {
+                "name": "Pádraic Brady",
+                "email": "padraic.brady@gmail.com",
+                "homepage": "http://blog.astrumfutura.com"
+            },
+            {
+                "name": "Dave Marshall",
+                "email": "dave.marshall@atstsolutions.co.uk",
+                "homepage": "http://davedevelopment.co.uk"
+            }
+        ],
+        "description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). Designed as a drop in alternative to PHPUnit's phpunit-mock-objects library, Mockery is easy to integrate with PHPUnit and can operate alongside phpunit-mock-objects without the World ending.",
+        "homepage": "http://github.com/padraic/mockery",
+        "keywords": [
+            "BDD",
+            "TDD",
+            "library",
+            "mock",
+            "mock objects",
+            "mockery",
+            "stub",
+            "test",
+            "test double",
+            "testing"
         ]
     }
 ]
