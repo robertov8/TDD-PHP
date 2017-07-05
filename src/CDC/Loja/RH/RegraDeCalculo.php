@@ -8,7 +8,7 @@ abstract class RegraDeCalculo
     public function calcula(Funcionario $funcionario)
     {
         $salario = $funcionario->getSalario();
-        if ( $salario > $this->limite()) {
+        if ($salario > $this->limite()) {
             return $salario * $this->porcentagemAcimaDoLimite();
         }
         return $salario * $this->porcentagemBase();

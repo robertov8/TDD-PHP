@@ -1,5 +1,5 @@
 <?php
-namespace CDC\CDC\Exemplos;
+namespace CDC\Exemplos;
 
 interface RelogioInterface
 {

@@ -1,7 +1,7 @@
 <?php
 namespace CDC\Exemplos;
 
-use CDC\CDC\Exemplos\RelogioInterface;
+use CDC\Exemplos\RelogioInterface;
 use DateTime;
 
 class RelogioDoSistema implements RelogioInterface
